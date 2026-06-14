@@ -3,7 +3,7 @@
 This section explores the theoretical foundation and practical implementation of Monte Carlo methods for financial mathematics, specifically option pricing and volatility modeling.
 
 ### Contents
-* **`HW3_Report.pdf`**: Detailed analytical report covering the Central Limit Theorem applied to sample variance, error bounds, and simulation stability across large iterations.
+* **`HW3_SF2525.pdf`**: Detailed analytical report covering the Central Limit Theorem applied to sample variance, error bounds, and simulation stability across large iterations.
 
 ### Implementations
 All executable scripts are located in the `src/` directory:
