@@ -3,7 +3,7 @@
 This section focuses on the mathematical derivation and computational implementation of numerical solvers for Stochastic Differential Equations.
 
 ### Contents
-* **`HW2_Report.pdf`**: Detailed analytical report covering the theoretical framework, convergence analysis (weak vs. strong errors), and evaluation of the modified backward Euler scheme's stability.
+* **`HW2_SF2525.pdf`**: Detailed analytical report covering the theoretical framework, convergence analysis (weak vs. strong errors), and evaluation of the modified backward Euler scheme's stability.
 
 ### Implementations
 All executable scripts are located in the `src/` directory:
