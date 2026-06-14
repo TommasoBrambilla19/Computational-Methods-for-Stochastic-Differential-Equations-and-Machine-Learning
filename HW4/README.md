@@ -3,7 +3,7 @@
 This section explores the theoretical derivation and practical implementation of Gibbs Sampling within the context of stochastic modeling and parameter estimation.
 
 ### Contents
-* **`HW4_Report.pdf`**: Detailed analytical report contrasting Frequentist (maximum likelihood) and Bayesian estimation approaches, including the derivation of predictive posterior distributions.
+* **`HW4_SF2525.pdf`**: Detailed analytical report contrasting Frequentist (maximum likelihood) and Bayesian estimation approaches, including the derivation of predictive posterior distributions.
 
 ### Implementations
 All executable scripts are located in the `src/` directory:
